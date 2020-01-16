@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont.eot?t=1578381627935'); /* IE9 */
+  src: url('./iconfont.eot?t=1578381627935#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPcAAsAAAAAB9gAAAOOAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqDIIMIATYCJAMQCwoABCAFhG0HQhvsBlGU7kmD7COh3LhsWUKRJAVhXGkeqgjqx357790XQyxJUu0+naSJRCIkEpUELdIoneliIf+jNm2AKqkLZ1ZTJ3RJiS1H9sREX+ovw+e5nN41QAKa37Jcxlw0Nt3iwwDjnvcCHXOSFQhm3jB2E+VBbCbQNa8v6iynqArsJNArEPeSjge7lF/WMENbaJZMTPEC1trlib6OZ/79+LUXdhSNCgw8v8tuh7QP+HBkHtXRmigBhvGi0KZRsQEkcVsav8GEpQ2MrrOalS2gKYXyEW8GqsqYOu5nneU2Sq8fL5oAvQ8OxHLlA7CKwgelL3M4isaTpydoi5RH4BVwz46zcMjNvoNjHzs7T43w8GHNo0e1Dx5U37/fgqxVgTZ5wsOHQ6Z6iQvHLJrmiRaMnh8638Nj/uIF03ocegQOqB1TVeU1ZtWqXX323z++26dqoV/QwnX+9+uW3xce4MzWOFSxBk19w8IgdrlPHX9MMw2ADfY0O/UmNaa2dgxfKKl6/2YYvUUz7RxFLVk5kz5xkpkJNTQ9k54Vc2YZBjOrV9ODJc/qNcQzhJb18l9c7WPJZQf16zvI87/nwL79BnmoRoPbzSx5QuD8ybMKdvY/tHDFarzfqSx31bb0Ata267gRLo+zezRfjXYtDsyZGOQxTd+9pOxDU31TQnUknBZz7/TMumMtclK1mQ/1KaXVdIZWSnlk9SfFQi7EhVLWxyG4V43k2KwpTEt41VJLrvl6/vHr9r1bEMgAw3P1AJOh/lW/M0OYDIChWk/Xf9jJ/69HWa3OSb/tNBeSfU+oSOTa9pJzCRRtBc3wx5olDP+C1E0gkGnb1Dqt2meknRvvV9DVxVBMT3g5hnPaoRPapmMULXOo2hbIFG+goecATW2H6FqXO71nkoIR2cGaCQLCmF0oRryhGnODTPELNMz4jKaxYNB1Ee4L9iyFxGYqiCeondMO4SQBm0UUImzArEC6AUZeSZq4tAYpFinLhYeEZau5yIyUMYZYBuoiCBE5UcEmLkfYDhmNmJMVrEcCCekgRE4IDRXL3hQiYBOwTikQHoG042gNwZEIMDOR1ifY3OcrIDoDGPGUGl5HvQaisJBa54QLEdaCzLWbW/Gu5RqLgXQiEISII1JgJpwcIYoYYQnjyOXt9BABEaKjR0GWIFSqJba1h8zvND3hBugCp2eUqJHRkA8YmxyG8Ga9ZNb1E7A8hE7nAQAAAA==') format('woff2'),
+  url('./iconfont.woff?t=1578381627935') format('woff'),
+  url('./iconfont.ttf?t=1578381627935') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfont.svg?t=1578381627935#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconzoom:before {
+  content: "\e60d";
+}
+
+.iconyanjing-copy:before {
+  content: "\e600";
+}
+
+.iconAa:before {
+  content: "\e601";
+}
+

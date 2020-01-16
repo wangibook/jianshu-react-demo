@@ -1,0 +1,24 @@
+.detail{
+  width: 620px;
+  margin: 0 auto;
+  padding-top: 56px;
+  padding-bottom: 100px;
+  overflow: hidden;
+  h3{
+    margin: 50px 0 20px 0;
+    line-height: 44px;
+    font-size: 34px;
+    color: #333;
+    font-weight: bold;
+  }
+  .content{
+    .detail-img{
+      width: 100%;
+    }
+    p{
+      margin: 25px 0;
+      font-size: 16px;
+      line-height: 30px;
+    }
+  }
+}
